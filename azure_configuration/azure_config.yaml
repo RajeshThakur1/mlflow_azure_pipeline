@@ -1,0 +1,13 @@
+azure_endpoint:
+  scoring_uri: http://b1a3971e-0f77-4934-9a67-486d7a936d10.eastus2.azurecontainer.io/score
+azure_workspace_config:
+  resource_group: mlflow_azure
+  subscription_id: febc3157-7f51-4692-b9f8-69a5801bed5b
+  workspace_location: East US 2
+  workspace_name: mlflow_azure
+model_config:
+  aci_service_name: sklearn-model-prod
+  description: sklearn model
+  image_name: sklearnimage
+  model_name: sklearn_elasticnet_dev
+  model_uri: runs:/0c843cdca2594c6c95c95d2e9e40acdd/model

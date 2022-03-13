@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/python/5thNov/rajesh/AI_MLOPS/aiops_azure_pipeline/mlops_azure_pipeline/mlruns/0/0c843cdca2594c6c95c95d2e9e40acdd/artifacts
+end_time: 1647142250706
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 0c843cdca2594c6c95c95d2e9e40acdd
+run_uuid: 0c843cdca2594c6c95c95d2e9e40acdd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1647142250624
+status: 3
+tags: []
+user_id: Rajesh Thakur
